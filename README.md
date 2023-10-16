@@ -1,7 +1,12 @@
-# Next.js + Contentlayer
+# An Blog Platform For FOSS Club CEKNPY
 
-A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
+### Technologies involved
+* Next.js 
+* Contentlayer
+* Tailwind CSS
 
-https://next-contentlayer.vercel.app
+Created proudly by [twilighty-abhi](https://github.com/twilighty-abhi)
+
+Base Template provided by: [shadcn](https://github.com/shadcn)
 
 
